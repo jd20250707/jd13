@@ -12,4 +12,4 @@
 
 这些站点不仅提供在线播放，还提供磁力下载，确保用户在手机、平板、电脑等不同设备上都能顺畅观看。为了避免访问困难，许多站点会提供备用域名或镜像站点，防止主站被封锁。站点使用海外服务器或CDN加速，提升视频加载速度和播放稳定性，确保观看体验不受影响。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/jd20250707/jd13 ）</span>
